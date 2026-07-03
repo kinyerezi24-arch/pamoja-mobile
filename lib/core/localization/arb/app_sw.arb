@@ -1,0 +1,15 @@
+{
+  "@@locale": "sw",
+  "app_name": "PAMOJA",
+  "welcome": "Karibu kwenye PAMOJA",
+  "dashboard": "Dashibodi",
+  "pos": "Mfumo wa Kuuza",
+  "inventory": "Kumbukumbu",
+  "customers": "Wateja",
+  "products": "Bidhaa",
+  "cashbooks": "Daftari ya Pesa",
+  "reports": "Ripoti",
+  "settings": "Mipango",
+  "error_occurred": "Hitilafu ilitokea",
+  "try_again": "Jaribu Tena"
+}
