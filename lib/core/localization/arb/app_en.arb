@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "app_name": "PAMOJA",
+  "welcome": "Welcome to PAMOJA",
+  "dashboard": "Dashboard",
+  "pos": "Point of Sale",
+  "inventory": "Inventory",
+  "customers": "Customers",
+  "products": "Products",
+  "cashbooks": "Cashbooks",
+  "reports": "Reports",
+  "settings": "Settings",
+  "error_occurred": "An error occurred",
+  "try_again": "Try Again"
+}
